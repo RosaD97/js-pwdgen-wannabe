@@ -5,13 +5,15 @@
     box-sizing: border-box;
 }
 
+/* Common */
+.nomeUtente, .password{
+    color: #645CBB;
+}
+
 /* Inizio header */
 header{
     background-color: #A084DC;
-    height: 5.625rem;
-}
-.ms_title{
-    color: aliceblue;
+    height: 8.125rem;
 }
 /* Fine header */
 
@@ -19,5 +21,8 @@ header{
 main{
     background-color: #BFACE2;
     height: 100vh;
+}
+.password{
+    font-family: 'Roboto Mono', monospace;;
 }
 /* Inizio main */
