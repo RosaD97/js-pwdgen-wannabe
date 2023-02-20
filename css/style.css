@@ -6,7 +6,18 @@
 }
 
 /* Inizio header */
+header{
+    background-color: #A084DC;
+    height: 5.625rem;
+}
+.ms_title{
+    color: aliceblue;
+}
 /* Fine header */
 
 /* Inizio main */
+main{
+    background-color: #BFACE2;
+    height: 100vh;
+}
 /* Inizio main */
